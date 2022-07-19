@@ -18,6 +18,10 @@ attention:should list the input and output
 
 Context Map
 
+1. CuteNumber
+2. Multiplication Table
+3. Pos Machine
+
 ![photo](assets/photo02.png)
 
 ## Naming
