@@ -4,15 +4,35 @@
 
 What?
 ![codeReview](assests/photo01.png)
+Code review is asoftware quality assurance activity.
+
+This activity need person to check a program by viewing and reading source code.
+
+At least one reviewer who is not the code author.
 
 How?
 ![codeReview](assests/photo02png.png)
+Code review file by file
+
+Code review commit by commit
 
 Benefit
 ![codeReview](assests/photo03.png)
+Share context with your mates
+
+Learn from others
+
+Find the potential issue from source code
 
 Rules
 ![codeReview](assests/photo04.png)
+
+1. Learning by Challenge
+2. Learning by Sharing
+3. Focus on the code and commits
+4. Ask more questions
+5. Set time box per repo
+6. Summary and Record the Good Points and Questions
 
 Attention
 
