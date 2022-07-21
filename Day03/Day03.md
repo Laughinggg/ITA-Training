@@ -4,7 +4,7 @@
 
 What?
 ![codeReview](assests/photo01.png)
-Code review is asoftware quality assurance activity.
+Code review is a software quality assurance activity.
 
 This activity need person to check a program by viewing and reading source code.
 
