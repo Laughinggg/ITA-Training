@@ -35,3 +35,5 @@ How?
 2. Refactor
 3. Test again
 4. Commit
+
+![photo01](assests/MicrosoftTeams-image.png)
